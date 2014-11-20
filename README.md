@@ -10,6 +10,7 @@ TEMPLATE....
 FILE : resources/Sample_TemplateBlock_MULTIPLE.docx  ----->
 
 ${CLONEME}
+
 PHPWord ${firstName}  ${secondName} from ${address}  
 ${/CLONEME}
 ***************************************************************************************
