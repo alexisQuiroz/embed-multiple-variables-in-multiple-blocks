@@ -21,6 +21,7 @@ FILE .... result/Sample_TemplateBlock_MULTIPLE.docx ----->
 PHPWord Alexis  Quiroz from santiago/Chile  
 
 ${CLONEME}
+
 PHPWord ${firstName}  ${secondName} from ${address}  
 ${/CLONEME}
 ***************************************************************************************
